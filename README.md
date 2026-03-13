@@ -5,7 +5,7 @@
 
 [![Blog](https://img.shields.io/badge/Project-RoboBrain--Dex-green)](https://aureleopku.github.io/METIS/)
 [![Paper](https://img.shields.io/badge/arXiv-Paper-b31b1b.svg)](https://arxiv.org/abs/2511.17366)
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](./LICENSE)
+<!--[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](./LICENSE) -->
 </div>
 
 <div align="center">
