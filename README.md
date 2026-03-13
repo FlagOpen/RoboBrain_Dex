@@ -64,7 +64,14 @@ python build_rlds_from_g1_state_action.py --input_root [input_root] --task_name 
 After converting to RLDS, register the dataset (which, for example, pour_the_drink) with our dataloader by adding an entry for it in configs.py ([here](Robobrain/vla/datasets/rlds/oxe/configs.py#L58)), transforms.py ([here](Robobrain/vla/datasets/rlds/oxe/transforms.py#L1000)). For reference, in each of these files, there are sample entries for the G1 datasets that we used in our paper.
 
 ## VLA Posttrain
+```bash
+#download pretrained model
+hf auth login
+hf download BAAI/RoboBrain-Dex --repo-type model --local-dir /your/local/path
 
+#download pretrained motion dynamic model
+hf download BAAI/Motion_Dynamic_Model--repo-type model --local-dir /your/local/path
+```
 
 ```bash
 cd vla-scripts
