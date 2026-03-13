@@ -35,7 +35,7 @@ Robobrain-Dex utilizes Robobrain2.0 as the base Vision-Language Model. It underg
 
 ## Set Up Conda Environments
 ```bash
-git clone https://github.com/ccdcs/Robobrain-Dex.git
+git clone https://github.com/FlagOpen/RoboBrain_Dex
 conda create -n robobrain-dex python=3.10 -y
 conda activate robobrain-dex
 # Our experiments are conducted with 'torch 2.9.0'
