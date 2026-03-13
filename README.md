@@ -96,7 +96,7 @@ torchrun --standalone --nnodes 1 --nproc-per-node 1 deploy_server.py
 
 The following features are planned for future implementation:
 
-- [ ] Complete data processing scripts and documentation
+- [x] Complete data processing scripts and documentation
 - [ ] Complete pretraining scripts and documentation
 - [ ] complete deployment scripts on real robots
 
