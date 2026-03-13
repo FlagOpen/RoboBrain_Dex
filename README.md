@@ -8,16 +8,7 @@
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](./LICENSE)
 </div>
 
-<div align="center">
-       <video src="https://github.com/user-attachments/assets/b217eaf2-bd56-4d32-ab34-f1543622276c" 
-              width="100%" 
-              autoplay 
-              loop 
-              muted 
-              playsinline
-              title="Robobrain-Dex">
-</video>
-</div>
+
 <!-- ![image description](assets/Teaser.png) -->
 
 Robobrain-Dex is a foundation model pre-trained on multi-source egocentric datasets, demonstrating exceptional capabilities in dexterous manipulation.
