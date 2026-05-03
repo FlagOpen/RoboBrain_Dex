@@ -9,14 +9,7 @@
 </div>
 
 <div align="center">
-       <video src="https://github.com/user-attachments/assets/b3fd68fb-7930-43ae-a4c9-d14093ebb5ba" 
-              width="100%" 
-              autoplay 
-              loop 
-              muted 
-              playsinline
-              title="Robobrain-Dex">
-</video>
+  <img src="rbdex_github.gif" width="100%" alt="Robobrain-Dex">
 </div>
 
 
